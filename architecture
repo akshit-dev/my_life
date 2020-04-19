@@ -1,0 +1,7 @@
+project architecture 
+
+1st ui 
+2nd services (micro services)
+	1st auth service 
+	2nd business logic
+3rd data base 
